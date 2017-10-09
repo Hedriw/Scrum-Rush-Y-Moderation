@@ -22,10 +22,10 @@
 
 	<br>
 
-	<ul class="mui-tabs__bar mui-tabs__bar--justified">
+	<ul class="mui-tabs__bar mui-tabs__bar--justified Menu">
 	  <li class="hvr-underline-from-center"><a href=http://srv-tpinfo/G246/Scrum-Rush-Y-Moderation/?r=GestionAvis data-mui-toggle="tab" data-mui-controls="pane-justified-1">Gestion Avis</a></li><!--class="mui--is-active" in li-->
-	  <li class="hvr-underline-from-center"><a data-mui-toggle="tab" data-mui-controls="pane-justified-2">Tab-2</a></li>
-	  <li class="hvr-underline-from-center"><a data-mui-toggle="tab" data-mui-controls="pane-justified-3">Tab-3</a></li>
+	  <li class="hvr-underline-from-center"><a data-mui-toggle="tab" data-mui-controls="pane-justified-2">Saisie des Classement</a></li>
+	  <li class="hvr-underline-from-center"><a data-mui-toggle="tab" data-mui-controls="pane-justified-3">Futur is Comming</a></li>
 	</ul>
 	<div class="mui-tabs__pane" id="pane-justified-1"></div><!--"mui--is-active"-->
 	<div class="mui-tabs__pane" id="pane-justified-2"></div>

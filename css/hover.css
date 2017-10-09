@@ -2172,6 +2172,7 @@
 
 /* Underline From Center */
 .hvr-underline-from-center {
+  background-color: lightgrey;
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
